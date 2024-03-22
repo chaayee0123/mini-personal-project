@@ -1,0 +1,32 @@
+.email-wrapper {
+  align-items: center;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.sentence2 {
+  font-size: 0.9rem;
+  color: white;
+}
+.email-input {
+  padding-top: 15px;
+}
+.input-box {
+  width: 300px;
+  height: 38px;
+  padding: 0.5rem;
+  line-height: 1.5rem;
+  margin-right: 0.5rem;
+  border: 1px solid rgb(167, 164, 164);
+  background-color: black;
+  opacity: 0.8;
+}
+.start {
+  width: 110px;
+  height: 40px;
+  font-size: 1rem;
+  background-color: brown;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}

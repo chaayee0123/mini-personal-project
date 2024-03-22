@@ -1,0 +1,24 @@
+.membership-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 22px;
+}
+.popcorn {
+  width: 50px;
+  height: 50px;
+  top: 10px;
+}
+.main-wrap1 {
+  color: white;
+  padding-left: 20px;
+}
+
+.detail-btn {
+  color: #448ef4;
+  background: none;
+  border: none;
+  text-decoration: underline;
+  padding: 0;
+}

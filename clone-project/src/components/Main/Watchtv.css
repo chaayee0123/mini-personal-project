@@ -1,0 +1,25 @@
+.main-wrap2 {
+  display: flex;
+  align-items: center;
+  margin-left: 100px;
+  /* justify-content: center; */
+  line-height: 1.5;
+  flex-direction: row;
+}
+.enjoytv {
+  color: white;
+  padding-bottom: 10px;
+  text-align: left;
+  font-weight: 800;
+  font-size: 2rem;
+}
+.main-sent {
+  color: white;
+}
+.tv {
+  width: 400px;
+  height: 350px;
+  left: 0;
+  top: 0;
+  margin-left: 50px;
+}

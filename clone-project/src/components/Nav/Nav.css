@@ -1,0 +1,15 @@
+.title {
+  margin-left: 15px;
+  color: brown;
+  font-weight: 800;
+  font-size: 2.3rem;
+}
+.login {
+  width: 53px;
+  height: 25px;
+  font-size: 0.7rem;
+  background-color: brown;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
